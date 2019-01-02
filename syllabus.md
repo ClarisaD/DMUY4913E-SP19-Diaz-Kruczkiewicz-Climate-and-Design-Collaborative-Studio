@@ -11,7 +11,7 @@ Mondays & Wednesdays • 6:30PM-8:20PM • 2MTC MAGNET 820 • 3 credit hrs
 
 #### Office hours by appointment or directly after class.
 
-#### Gitbook Repository: [https://clarisadiaz.gitbook.io/DMUY4913E-SP19-Diaz-Kruczkiewicz-Climate-and-Design-Collaborative-Studio/](https://clarisadiaz.gitbook.io/DMUY4913E-SP19-Diaz-Kruczkiewicz-Climate-and-Design-Collaborative-Studio/)
+#### Gitbook Repository: [https://clarisadiaz.gitbook.io/dmuy4913e-sp19-diaz-kruczkiewicz-climate-design/](https://clarisadiaz.gitbook.io/dmuy4913e-sp19-diaz-kruczkiewicz-climate-design/)
 
 #### Course shared Google Drive folder, Climate & Design Spring 2019: [https://drive.google.com/drive/folders/1wLgz8ggWn7wY6KZRQ3PfXlUJh_45_mWf?usp=sharing](https://drive.google.com/drive/folders/1wLgz8ggWn7wY6KZRQ3PfXlUJh_45_mWf?usp=sharing)
 
@@ -148,11 +148,11 @@ Students will conduct self assessments as well as be evaluated by the professor 
 
 **Quantitative Grading Overview**
 
-* 5% [Class Participation]
+* 5% Class Participation
 * 5% [Self Assessments](assignments/self-assessments.md) \(2.5% each\)
 * 20% [Class Assignments & on Blog](assignments/)
 * 30% [Midterm Project & Annnotated Bibliography](projects/midterm-project.md)
-* 40% [Final Project & Annotated Bibliogrpahy](projects/final-project.md)
+* 40% [Final Project & Annotated Bibliography](projects/final-project.md)
 
 **Qualitative Grading Overview**
 
