@@ -28,7 +28,7 @@ OPTIONAL: **Get Training at **[**Tandon's MakerSpace.**](https://wp.nyu.edu/make
 | 11 | Apr 08 [Working Session: Final Project Development Systems Map & Tool(s) Prototyping](week-11-detail-apr-08.md) | Apr 10 [Working Session: Final Project Development Systems Map & Tool(s) Prototyping](week-11-detail-apr-08.md) |
 | 12 | Apr 15 [Working Session: Final Project Development Systems Map & Tool(s) Prototyping](week-12-detail-apr-15.md) | Apr 17 [Class Presentation: Final Project Progress](week-12-detail-apr-15.md)|
 | 13 | Apr 22 [Working Session: Final Project High Fidelity Systems Map & Tool(s) Prototyping](week-13-detail-apr-22.md) | Apr 24 [Working Session: Final Project High Fidelity Systems Map & Tool(s) Prototyping](week-13-detail-apr-22.md) |
-| 14 | Apr 29 [Working Session: Final Project High Fidelity Systems Map & Tool(s) Prototyping](week-13-detail-apr-29.md) | Working Session: May 1 [Final Project High Fidelity Systems Map & Tool(s) Prototyping](week-14-detail-apr-29.md) |
+| 14 | Apr 29 [Working Session: Final Project High Fidelity Systems Map & Tool(s) Prototyping](week-13-detail-apr-29.md) | May 1 [Working Session: Final Project High Fidelity Systems Map & Tool(s) Prototyping](week-14-detail-apr-29.md) |
 |  | May 03 **EXHIBITION PRESENTATION: FRIDAY 6:30-8:20pm, LOCATION: TBD (Climate Museum), FINAL PROJECT & ANNOTATED BIBLIOGRAPHY DUE** |
 | 15 | May 06 NO CLASS [Final Project Self-Assesments: Email to Clarisa & Andrew](week-15-detail-may-06.md) | May 08 NO CLASS [Final Project Course Evaluations, Letter to the next cohort: Email to Clarisa & Andrew](week-15-detail-may-06.md)|
 | 16 | May 13 Final One on Ones: Reflections and Feedback | May 15 Final One on Ones: Reflections and Feedback|
