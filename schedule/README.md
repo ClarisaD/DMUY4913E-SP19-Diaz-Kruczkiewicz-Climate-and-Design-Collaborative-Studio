@@ -22,11 +22,11 @@ OPTIONAL: **Get Training at **[**Tandon's MakerSpace.**](https://wp.nyu.edu/make
 | 6 | Mar 04 [Working Session: Idea Proposals in Dar es Salaam for Communicating Risk](week-5-detail-mar-04.md) | Mar 06 [Working Session: Idea Proposals in Dar es Salaam for Communicating Risk](week-6-detail-mar-04.md) |
 | 7 | Mar 11 **MIDTERM PROJECT & ANNOTATED BIBLIOGRPAHY, SELF-ASSESSMENT DUE** [Midterm Presentations](week-7-detail-mar-11.md) | Mar 13 [Midterm Presentations](week-7-detail-mar-11.md) |
 | 8 | Mar 18 NO CLASS - SPRING BREAK | Mar 20 NO CLASS - SPRING BREAK (week-8-detail-mar-18.md) |
-| 9 | Mar 25 Midterm One-on-Ones[Form groups for Final Project, Brainstorm ideas](week-9-detail-mar-25.md) | Mar 27 [Working Session: Final Project Research & Combining ideas](week-9-detail-mar-25.md) |
+| 9 | Mar 25 Midterm One-on-Ones,[Form groups for Final Project, Brainstorm ideas](week-9-detail-mar-25.md) | Mar 27 [Working Session: Final Project Research & Combining ideas](week-9-detail-mar-25.md) |
 | 10 | Apr 01 [Working Session: Final Project Concepting](week-10-detail-apr-01.md) | Apr 03 [Class Presentation: Final Project Progress](week-10-detail-apr-01.md) |
 |  | Mon Apr 05 **Last Day to Withdraw** Refer to the [NYU academic calendar](https://www.nyu.edu/registrar/calendars/university-academic-calendar.html#1188) |
 | 11 | Apr 08 [Working Session: Final Project Development Systems Map & Tool(s) Prototyping](week-11-detail-apr-08.md) | Apr 10 [Working Session: Final Project Development Systems Map & Tool(s) Prototyping](week-11-detail-apr-08.md) |
-| 12 | Apr 15 [Working Session: Final Project Development Systems Map & Tool(s) Prototyping](week-12-detail-apr-15.md) | Apr 17 [Class Presentation: Final Project Progress]|
+| 12 | Apr 15 [Working Session: Final Project Development Systems Map & Tool(s) Prototyping](week-12-detail-apr-15.md) | Apr 17 [Class Presentation: Final Project Progress](week-12-detail-apr-15.md)|
 | 13 | Apr 22 [Working Session: Final Project High Fidelity Systems Map & Tool(s) Prototyping](week-13-detail-apr-22.md) | Apr 24 [Working Session: Final Project High Fidelity Systems Map & Tool(s) Prototyping](week-13-detail-apr-22.md) |
 | 14 | Apr 29 [Working Session: Final Project High Fidelity Systems Map & Tool(s) Prototyping](week-13-detail-apr-29.md) | Working Session: May 1 [Final Project High Fidelity Systems Map & Tool(s) Prototyping](week-14-detail-apr-29.md) |
 |  | May 03 **EXHIBITION PRESENTATION: FRIDAY 6:30-8:20pm, LOCATION: TBD (Climate Museum), FINAL PROJECT & ANNOTATED BIBLIOGRAPHY DUE** |
