@@ -110,7 +110,7 @@ There will be discrete team and individual exercises and projects that require y
 * Framing and positioning
 * Storytelling, engaging, communicating, selling
 
-Students will conduct self assessments as well as be evaluated by the professor during or after midterm and at the end of the semester. Any action without reflection is meaningless. Real learning only occurs as part of a reflective process. Reflection is studying your own practice as seriously as you study anything. It involves thinking about why, what, and how you create something.
+Students will conduct self assessments as well as be evaluated by the professors during or after midterm and at the end of the semester. Any action without reflection is meaningless. Real learning only occurs as part of a reflective process. Reflection is studying your own practice as seriously as you study anything. It involves thinking about why, what, and how you create something.
 
 ### STUDENT RESPONSIBILITIES
 
@@ -150,7 +150,7 @@ Students will conduct self assessments as well as be evaluated by the professor 
 
 * 5% Class Participation
 * 5% [Self Assessments](assignments/self-assessments.md) \(2.5% each\)
-* 20% [Class Assignments & on Blog](assignments/)
+* 20% [Class Assignments on Blog](assignments/)
 * 30% [Midterm Project & Annnotated Bibliography](projects/midterm-project.md)
 * 40% [Final Project & Annotated Bibliography](projects/final-project.md)
 
@@ -198,14 +198,23 @@ If you are student with a disability who is requesting accommodations, please co
 
 _The following list of required readings may be incomplete and is subject to change. Supplemental readings may also be recommended during the course. Please see the course website for updates. You may also find readings in the course [Google Drive](https://drive.google.com/drive/folders/1wLgz8ggWn7wY6KZRQ3PfXlUJh_45_mWf?usp=sharing)_
 
-* 
+* [It’s Time To Ditch The Concept Of ‘100-Year Floods’ - FiveThirtyEight](https://fivethirtyeight.com/features/its-time-to-ditch-the-concept-of-100-year-floods/)
+* [How America Fails at Communicating Flood Risks - CityLab](https://www.citylab.com/environment/2018/10/how-america-fails-communicating-flood-risks/572620/)
+* [Climate Change as a Design Problem - The New York Times](https://www.nytimes.com/2017/06/16/insider/climate-change-as-a-design-problem-architecture-rotterdam.html)
+* [23 Fun Things to do in Dar Es Salaam, Tanzania](https://migrationology.com/things-to-do-in-dar-es-salaam-tanzania/)
+* [An insider's cultural guide to Dar Es Salaam: laid-back bustle and bongo flava](https://www.theguardian.com/cities/2015/dec/07/insider-cultural-guide-dar-es-salaam-bongo-flava)
+* [Anthony Bourdain: Tanzania](https://explorepartsunknown.com/tanzania/bourdains-field-notes-tanzania/)
+* [The Bright Future of Dar es Salaam, an Unlikely African Megacity](https://www.citylab.com/design/2015/02/the-bright-future-of-dar-es-salaam-an-unlikely-african-megacity/385801/)
+* [New master plan crucial for turning Dar into sustainable city](https://www.thecitizen.co.tz/News/New-master-plan-crucial-for-turning-Dar-into-sustainable-city/1840340-4091494-tbuneiz/index.html)
+* [The list of bans imposed by Tanzania’s populist](https://qz.com/africa/1185367/tanzanias-john-magufuli-imposes-bans-on-foreign-ships-pregnant-schoolgirls-and-public-rallies/)
 
 
 ### REQUIRED MEDIA
 
 _The following list of required media may be incomplete and is subject to change. Supplemental media may also be recommended during the course. Please see the course website for updates._
 
-* 
+* [99% Invisible - Climate Series](https://99percentinvisible.org/?s=climate&post_type[]=episode&post_type[]=article&paged=) 
+
 
 ### [RECOMMENDED RESOURCES](recommended-resources.md)
 
