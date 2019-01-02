@@ -190,7 +190,7 @@ If you are student with a disability who is requesting accommodations, please co
 
 ### REQUIRED SUPPLIES
 
-* A Notebook or Sketchbook \(Analog or Digital \(i.e. Evernote, Paper by FiftyThree, etc.\)\)
+* A Notebook or Sketchbook \(Analog or Digital i.e. Evernote, Paper by FiftyThree, etc.\)
 * Digital Camera \(You can also use a smart phone.\)
 * Digital Storage \(Thumb Drives or External Hard Drive, Laptop, etc\)
 
