@@ -7,5 +7,5 @@
 | wk | Mondays \(due on date listed\) | Wednesdays \(due on date listed\) |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | **Apr 22** | **Apr 24** |
-| class | Final Project High Fidelity Systems Map & Tool(s) Prototyping  | Apr 24 [Final Project High Fidelity Systems Map & Tool(s) Prototyping  |
+| class | Working Session: Final Project High Fidelity Systems Map & Tool(s) Prototyping  | Apr 24 [Working Session: Final Project High Fidelity Systems Map & Tool(s) Prototyping  |
 | assignment|   |   |

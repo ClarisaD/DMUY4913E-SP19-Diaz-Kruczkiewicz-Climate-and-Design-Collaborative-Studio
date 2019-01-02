@@ -7,5 +7,5 @@
 | wk | Mondays \(due on date listed\) | Wednesdays \(due on date listed\) |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | **Apr 01** | **Apr 03** |
-| class | Final Project Concepting  | Class Presentation: Final Project Progress  |
+| class | Working Session: Final Project Concepting  | Class Presentation: Final Project Progress  |
 | assignment|   |   |
