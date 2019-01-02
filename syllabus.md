@@ -229,7 +229,6 @@ All due dates can be found in the calendar. This is just an overview and descrip
 * [Assignment 5](assignments/assignment-5.md)
 * [Assignment 6](assignments/assignment-6.md)
 * [Assignment 7](assignments/assignment-7.md)
-* [Assignment 8](assignments/assignment-8.md)
 * [Self Assessments](assignments/self-assessments.md) 
 
 ### [SCHEDULE OVERVIEW GRID](schedule/)
