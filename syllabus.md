@@ -231,12 +231,13 @@ All due dates can be found in the calendar. This is just an overview and descrip
 
 #### Assignments
 
-* [Assignment 1](assignments/What_is_Dar_es_Salaam_Moodboard.md)
-* [Assignment 2](assignments/Weather_Forecast_Log.md)
-* [Assignment 3](assignments/Translator_Profile.md)
-* [Assignment 4](assignments/Climate_Spectrum.md)
-* [Assignment 5](assignments/Spectrum_Swap.md)
-* [Assignment 6](assignments/Personal_Climate_Spectrum.md)
+* [What is Dar es Salaam Moodboard](assignments/What_is_Dar_es_Salaam_Moodboard.md)
+* [Weather Forecast Log](assignments/Weather_Forecast_Log.md)
+* [Translator Profile](assignments/Translator_Profile.md)
+* [Climate Spectrum](assignments/Climate_Spectrum.md)
+* [Spectrum Swap](assignments/Spectrum_Swap.md)
+* [Personal Climate Spectrum](assignments/Personal_Climate_Spectrum.md)
+* [Map Slam](assignments/Map_Slam.md)
 * [Self Assessments](assignments/self-assessments.md) 
 
 ### [SCHEDULE OVERVIEW GRID](schedule/)
