@@ -234,10 +234,9 @@ All due dates can be found in the calendar. This is just an overview and descrip
 * [Assignment 1](assignments/What_is_Dar_es_Salaam_Moodboard.md)
 * [Assignment 2](assignments/Weather_Forecast_Log.md)
 * [Assignment 3](assignments/Translator_Profile.md)
-* [Assignment 4](assignments/assignment-4.md)
-* [Assignment 5](assignments/assignment-5.md)
-* [Assignment 6](assignments/assignment-6.md)
-* [Assignment 7](assignments/assignment-7.md)
+* [Assignment 4](assignments/Climate_Spectrum.md)
+* [Assignment 5](assignments/Spectrum_Swap.md)
+* [Assignment 6](assignments/Personal_Climate_Spectrum.md)
 * [Self Assessments](assignments/self-assessments.md) 
 
 ### [SCHEDULE OVERVIEW GRID](schedule/)
