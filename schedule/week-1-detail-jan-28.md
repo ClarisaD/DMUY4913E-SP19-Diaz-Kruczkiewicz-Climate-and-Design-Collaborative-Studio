@@ -6,7 +6,7 @@
 
 | wk | Mondays \(due on date listed\) | Wednesdays \(due on date listed\) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | **Jan 28** | **Jan 31** |
-| class | Course and Student Introductions Overview of Course, Red Cross Game | Dar es Salaam - Setting, Feeling, Culture, Geography  |
-| assignment| Start a blog for this class, email it to Clarisa and Andrew, Write a reaction to the game played in class.  |  create a mood board of Dar es Salaam | 
+| 1 | **Jan 28** | **Jan 30** |
+| class | Course and Student Introductions Overview of Course, Red Cross Game | Dar es Salaam - Setting, Feeling, Culture, Geography.  Potential Guest Speaker: UN & World Bank in Dar es Salaam.   |
+| assignment| Start a blog for this class, email it to Clarisa and Andrew, Write a reaction to the game played in class.  |  Create a mood board of Dar es Salaam | 
 

@@ -13,7 +13,7 @@ _Gitbook is a living, dynamic source. If there are any changes to the schedule i
 OPTIONAL: **Get Training at **[**Tandon's MakerSpace.**](https://wp.nyu.edu/makerspace/training-calendar/)
 | wk | Mondays \(Due on Date Listed\) | Wednesdays \(Due on Date Listed\) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Jan 28 [Course and Student Introductions Overview of Course, Red Cross Game](week-1-detail-sep-04.md) | Jan 31 [Dar es Salaam - Setting, Feeling, Culture, Geography](week-1-detail-jan-28.md) |
+| 1 | Jan 28 [Course and Student Introductions Overview of Course, Red Cross Game](week-1-detail-sep-04.md) | Jan 30 [Dar es Salaam - Setting, Feeling, Culture, Geography](week-1-detail-jan-28.md) |
 | 2 | Feb 04 [Climate 101: Physical Science of Climate Change](week-2-detail-sep-11.md) | Feb 06 [Climate 101: Communication of Climate Change Risk, specifically Flood Risk](week-2-detail-feb-04.md) |
 |  | Feb 10 Last day to drop Spring 2019 classes and not receive a grade of "W". Refer to the [NYU academic calendar](https://www.nyu.edu/registrar/calendars/university-academic-calendar.html#1194) |
 | 3 | Feb 11 [Climate Change + Design & Technology: Macro Tools](week-3-detail-feb-11.md) | Feb 13 [Climate Change + Design & Technology: Micro Tools](week-3-detail-sep-18.md) |
