@@ -8,4 +8,4 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | **Apr 29** | **May 01** |
 | class | Working Session: Final Project High Fidelity Systems Map & Tool(s) Prototyping  |  Working Session: Final Project High Fidelity Systems Map & Tool(s) Prototyping **May 03: EXHIBITION PRESENTATION: FRIDAY 6:30-8:20pm, LOCATION: TBD (Climate Museum), FINAL PROJECT & ANNOTATED BIBLIOGRAPHY DUE |
-| assignment|   |   |
+| assignment| Final project polishing  |   |

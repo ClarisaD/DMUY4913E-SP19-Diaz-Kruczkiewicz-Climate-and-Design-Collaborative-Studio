@@ -7,5 +7,5 @@
 | wk | Mondays \(due on date listed\) | Wednesdays \(due on date listed\) |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | **Mar 04** | **Mar 06** |
-| class | Working Session: Idea Proposals in Dar es Salaam for Communicating Risk  | Working Session: Idea Proposals in Dar es Salaam for Communicating Risk  |
-| assignment|   |   |
+| class | Class Presentation: Share systems and stakeholder maps, and idea proposals with class.  | Potential guest lecture on cognitive behaviorial science visualizations. Working Session: Idea Proposals in Dar es Salaam for Communicating Risk  |
+| assignment| Revise work based on class feedback |  Contine to work on midterm |

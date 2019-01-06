@@ -8,4 +8,4 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | **Feb 18** | **Feb 20** |
 | class | NO CLASS - Presidents' Day | Individual Midterm Exploring, Brainstorm: Research Directions |
-| assignment|   |   |
+| assignment|   | Create a collage of your topics of interest, start collecting sources for your annotated bibliogrphy. Post on your blog.  |

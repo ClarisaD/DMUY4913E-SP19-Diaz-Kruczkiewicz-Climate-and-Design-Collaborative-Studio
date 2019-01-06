@@ -8,5 +8,5 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | **Jan 28** | **Jan 31** |
 | class | Course and Student Introductions Overview of Course, Red Cross Game | Dar es Salaam - Setting, Feeling, Culture, Geography  |
-| assignment|   |   
+| assignment| Start a blog for this class, email it to Clarisa and Andrew, Write a reaction to the game played in class.  |  create a mood board of Dar es Salaam | 
 

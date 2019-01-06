@@ -7,5 +7,5 @@
 | wk | Mondays \(due on date listed\) | Wednesdays \(due on date listed\) |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | **Apr 15** | **Apr 17** |
-| class | Working Session: Final Project Development Systems Map & Tool(s) Prototyping  | Class Presentation: Final Project Progress  |
-| assignment|   |   |
+| class | Working Session: Share Final Project Development Systems Map & Tool(s) Prototyping with instructors | Class Presentation: Final Project Progress  |
+| assignment| Project progress  | Project progress  |

@@ -8,4 +8,4 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | **Mar 25** | **Mar 27** |
 | class | Midterm One-on-Ones, Form groups for Final Project: Brainstorm ideas | Working Session: Final Project Research & Combining ideas |
-| assignment|   |   |
+| assignment| Post ideas from group brainstrom  |  Post synthesis of ideas, develop concepts to share with instructors. |
