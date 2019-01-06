@@ -8,4 +8,4 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | **Feb 10** | **Feb 12** |
 | class | Climate Change + Design & Technology: Micro Tools |  Climate 101: Science and Risk Communication, Class exercise: Assume the role of a weather forecaster or a red cross worker, work through a weather emergency scenario.  |
-| assignment| Reading assignment on D & T Micro Tools - write a response on blog  | Write a response to the class exercise on your blog. What would be the roles and responsibilities of a translator in this scenario (person, piece of tech etc) |
+| assignment| Reading assignment on D & T Micro Tools - write a response on blog  | Write a response to the class exercise on your blog. What would be the roles and responsibilities of a translator in this scenario (person, piece of tech etc) Translator Profile Assignment |

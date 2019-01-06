@@ -7,5 +7,5 @@
 | wk | Mondays \(due on date listed\) | Wednesdays \(due on date listed\) |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | **Feb 18** | **Feb 20** |
-| class | NO CLASS - Presidents' Day | Weather Forecast Log DUE, share in class. Individual Midterm Exploring, Brainstorm: Research Directions |
+| class | NO CLASS - Presidents' Day | Translator Profile DUE, Weather Forecast Log DUE, share in class. Individual Midterm Exploring, Brainstorm: Research Directions |
 | assignment|   | Create a collage of your topics of interest, start collecting sources for your annotated bibliogrphy. Post on your blog.  |

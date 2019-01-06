@@ -233,7 +233,7 @@ All due dates can be found in the calendar. This is just an overview and descrip
 
 * [Assignment 1](assignments/What_is_Dar_es_Salaam_Moodboard.md)
 * [Assignment 2](assignments/Weather_Forecast_Log.md)
-* [Assignment 3](assignments/assignment-3.md)
+* [Assignment 3](assignments/Translator_Profile.md)
 * [Assignment 4](assignments/assignment-4.md)
 * [Assignment 5](assignments/assignment-5.md)
 * [Assignment 6](assignments/assignment-6.md)
