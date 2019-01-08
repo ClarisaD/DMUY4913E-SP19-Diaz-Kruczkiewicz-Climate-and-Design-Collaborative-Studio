@@ -12,6 +12,16 @@
 
 **Recommended Books & Articles**
 
+
+* [The Signal and The Noise - Nate Silver](https://www.amazon.com/gp/product/0143125087/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1)
+* [The Global Framework for Climate Services
+Chris Hewitt, Simon Mason & David Walland
+Nature Climate Change volume 2, pages 831–832 (2012)
+](https://www.nature.com/articles/nclimate1745)
+* [Marshall Shepherd
+Ted Talk - Dec 11 2018
+](https://www.youtube.com/watch?v=LcNvkhS4UYg)
+* [What Causes the Seasons? - NASA  Space Place](https://spaceplace.nasa.gov/seasons/en/)
 * [It’s Time To Ditch The Concept Of ‘100-Year Floods’ - FiveThirtyEight](https://fivethirtyeight.com/features/its-time-to-ditch-the-concept-of-100-year-floods/)
 * [Rethinking Flood Risk Communication - Natural Hazards](https://link.springer.com/article/10.1007/s11069-018-3273-4) by E. Rollason et al
 * [The effectiveness of flood risk communication strategies and the influence of social networks—Insights from an agent-based model](https://www.sciencedirect.com/science/article/pii/S1462901116300570) by Toon Haer et al

@@ -207,6 +207,19 @@ _The following list of required readings may be incomplete and is subject to cha
 * [The Bright Future of Dar es Salaam, an Unlikely African Megacity](https://www.citylab.com/design/2015/02/the-bright-future-of-dar-es-salaam-an-unlikely-african-megacity/385801/)
 * [New master plan crucial for turning Dar into sustainable city](https://www.thecitizen.co.tz/News/New-master-plan-crucial-for-turning-Dar-into-sustainable-city/1840340-4091494-tbuneiz/index.html)
 * [The list of bans imposed by Tanzania’s populist](https://qz.com/africa/1185367/tanzanias-john-magufuli-imposes-bans-on-foreign-ships-pregnant-schoolgirls-and-public-rallies/)
+* [Humanitarian Open Street Map](https://www.hotosm.org/projects/dar_ramani_huria_dar_open_map)
+* [Vulnerability to Dar es Salaam City to Impacts of Climate Change](http://pubs.iied.org/pdfs/G02388.pdf)
+* [Building Just Responses to Flooding (in the context of Dar es Salaam)](https://www.ucl.ac.uk/bartlett/development/sites/bartlett/files/2017_flooding.pdf)
+* [Community Mapping for Flood Resilience – The case of Dar es Salaam, Tanzania](https://agile-online.org/conference_paper/cds/agile_2018/posters/155%20Fina_AGILE_2018_Msilanga.pdf)
+* [Dar Es Salaam: Participatory modelling of floods using community mapped OpenStreetMap data](https://www.deltares.nl/en/projects/participatory-modelling-of-floods-using-community-mapped-openstreetmap-data/)
+* [Tanzania Urban Resilience Program - World Bank](http://www.worldbank.org/en/programs/tanzania-urban-resilience-program#0)
+* [Mapping Flood Risk in Tanzania](https://www.worldbank.org/en/news/video/2018/02/22/mapping-flood-risk-in-tanzania)
+* [Challenges in coping with flooding in Dar Es Salaam](https://vimeo.com/113227108)
+* [Green infrastructure for flood-risk management in Dar es Salaam and Copenhagen: exploring the potential for transitions towards sustainable urban water management](https://iwaponline.com/wp/article-abstract/17/1/126/31496/Green-infrastructure-for-flood-risk-management-in)
+* [Flooding, flood risks and coping strategies in urban informal residential areas : the case of Keko Machungwa](https://journals.co.za/content/jemba/4/1/EJC125636)
+* [Using music and dance to improve health in a Tanzanian refugee camp](https://www.ifrc.org/en/news-and-media/news-stories/africa/tanzania/using-music-and-dance-to-improve-health-in-a-tanzanian-refugee-camp-72303/)
+* [Red Cross warns on use of its logo](https://www.thecitizen.co.tz/News/Red-Cross-warns-on-use-of-its-logo/1840340-4830088-hv94t4/index.html)
+* [Red Cross Emergency Plan of Action - Tanzania Floods 2018](https://reliefweb.int/sites/reliefweb.int/files/resources/MDRTZ021do.pdf)
 
 
 ### REQUIRED MEDIA
