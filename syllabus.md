@@ -18,7 +18,7 @@ Mondays & Wednesdays • 6:30PM-8:20PM • 2MTC MAGNET 820 • 3 credit hrs
 
 ## Welcome to the Climate & Design Collaborative Studio!
 
-Students in this course will explore the challenges of the human impact of climate change by thinking and working through a real-life case study. Dar es Salaam in Tanzania is selected as a location of rapid urban change caused by more frequent flooding. Using background information provided by the course partner, Columbia University’s International Research Institute for Climate and Society, students will study how the city has developed and what needs may be present in communities that live there. 
+Students in this course will explore the challenges of the human impact of climate change by thinking and working through a real-life case study. Dar es Salaam in Tanzania is selected as a location of rapid urban change and more frequent flooding. Using background information provided by the course partner, Red Cross Red Crescent Climate Centre, students will study how the city has evolved, the current social and climate related stressors, and what needs may be present in communities that live there. 
 
 The course will be studio based, creating a series of assignments and projects that explore questions like: How would residents receive communication of approaching storms? How could the city develop protection from floods? How might someone get food when the streets are uninhabitable? Questions explored through projects are open to student interest based on their investigations. 
 
