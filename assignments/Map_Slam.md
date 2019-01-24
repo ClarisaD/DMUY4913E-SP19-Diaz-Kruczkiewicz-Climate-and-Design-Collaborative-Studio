@@ -2,7 +2,9 @@
 
 ### Spring 2019 • Clarisa Diaz, Andrew Kruczkiewicz • Mondays and Wednesdays • 6:30-8:20pm • 2MTC MAGNET 820
 
-## Map_Slam: It’s Friday afternoon, just around the time when you usually leave the office. One last check of social media and, to your dismay, there are messages, from various sources, stating increased risk for flooding in your area of responsibility for the next few days. Some sources note it will definitely occur at disaster levels never before experienced. Others are more cautious, highlighting the risk for moderate flooding, however flash flooding may happen in areas that have not seen these types of flooding before.
+## Map Slam
+
+It’s Friday afternoon, just around the time when you usually leave the office. One last check of social media and, to your dismay, there are messages, from various sources, stating increased risk for flooding in your area of responsibility for the next few days. Some sources note it will definitely occur at disaster levels never before experienced. Others are more cautious, highlighting the risk for moderate flooding, however flash flooding may happen in areas that have not seen these types of flooding before.
  
 You need to make a decision- What do you do?
 
