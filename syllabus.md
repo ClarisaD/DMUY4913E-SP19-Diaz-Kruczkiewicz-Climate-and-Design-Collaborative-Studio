@@ -5,7 +5,7 @@
 #### Integrated Digital Media • Technology, Culture & Society Department
 
 ```text
-Clarisa Diaz, Andrew Kruczkiewicz • clarisa.diaz@nyu.edu • Spring 2019
+Clarisa Diaz, Andrew Kruczkiewicz • clarisa.diaz@nyu.edu, ajk9@nyu.edu • Spring 2019
 Mondays & Wednesdays • 6:30PM-8:20PM • 2MTC MAGNET 820 • 3 credit hrs
 ```
 
