@@ -20,21 +20,38 @@ We will check your class blog for assignments, looking at when and what you post
 
 
 Student Blogs:
+<br>
 <a href="https://www.tumblr.com/blog/tasmia-anika">Tasmia Anika</a>
+<br>
 <a href="https://sb6709.wixsite.com/lookdaressalaam">Simon Bayona</a>
+<br>
 <a href="https://adbclimatedesign.wordpress.com/">Alessia de Borbon</a>
+<br>
 <a href="https://hello-worldasweknowit.tumblr.com/">Joey Cabrera</a>
+<br>
 <a href="https://nicole-climate-design.tumblr.com/">Nicole Diaz</a>
+<br>
 <a href="https://dhenryclimateanddesign.tumblr.com/">Dylan Henry</a>
+<br>
 <a href="https://jayclimdes.tumblr.com/">Jaynaba Kane</a>
+<br>
 <a href="https://www.tumblr.com/blog/dhl379">Daniel Lee</a>
+<br>
 <a href="https://alu017.tumblr.com/">Allen Lu</a>
+<br>
 <a href="https://whalebai.tumblr.com/">Peiyan Lyu</a>
+<br>
 <a href="https://climadesignaadi.tumblr.com/">Aadi Patel</a>
+<br>
 <a href="https://www.tumblr.com/blog/lilclimate">Kyle Quraishy</a>
+<br>
 <a href="https://medium.com/@razin68">Ahmed Razin</a>
+<br>
 <a href="https://www.tumblr.com/blog/soniaclimatedesign">Sonia Shah</a>
+<br>
 <a href="http://samirss.tumblr.com/">Samir Shekhawat</a>
+<br>
 <a href="https://cissiewang6.tumblr.com/">Cissie Wang</a>
+<br>
 <a href="https://itsbeccaw.tumblr.com/">Yining Wang</a>
 
