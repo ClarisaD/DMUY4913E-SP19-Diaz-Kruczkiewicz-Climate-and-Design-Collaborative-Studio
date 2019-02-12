@@ -32,7 +32,7 @@
 * [Projects](projects/README.md)
   * [Midterm Project](projects/midterm-project.md)
   * [Final Project](projects/final-project.md)
-* [Printed Assignment Guidelines](printed-assignment-guidelines.md)
+* [Assignment Guidelines](assignment-guidelines.md)
 * [Recommended Resources](recommended-resources.md)
 * [End of Semester Deliverables](end-of-semester-deliverables.md)
 

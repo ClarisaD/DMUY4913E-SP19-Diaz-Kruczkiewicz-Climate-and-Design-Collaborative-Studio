@@ -1,12 +1,12 @@
-# Printed Assignment Guidelines
+# Assignment Guidelines
 
 ### Spring 2019 • Clarisa Diaz, Andrew Kruczkiewicz • Mondays and Wednesdays • 6:30-8:20pm • 2MTC MAGNET 820
 
-## Printed Assignment Guidelines
+## Assignment Guidelines
 
 As with all written work, proofread for spelling and grammar. This is where working as a team will come in handy.
 
-Any printed work that you will turn in, should always contain the following:
+Any work that you will turn in, should always contain the following:
 
 * Date
 * Your first and last name
