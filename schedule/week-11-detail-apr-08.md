@@ -7,5 +7,5 @@
 | wk | Mondays \(due on date listed\) | Wednesdays \(due on date listed\) |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | **Apr 08** | **Apr 10** |
-| class | Working Session: Share Final Project Development Systems Map & Tool(s) Prototyping with instructors. |  Working Session: Share Final Project Development Systems Map & Tool(s) Prototyping with instructors|
+| class | Guest Speaker - Janet Babin - PRI and NPR journalist on Greenland and rising sea levels. Working Session: Share Final Project Development Systems Map & Tool(s) Prototyping with instructors. |  Working Session: Share Final Project Development Systems Map & Tool(s) Prototyping with instructors|
 | assignment| Project progress  | Project progress  |
