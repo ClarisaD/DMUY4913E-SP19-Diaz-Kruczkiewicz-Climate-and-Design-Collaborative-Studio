@@ -39,7 +39,7 @@ Student Blogs:
 <br>
 <a href="https://alu017.tumblr.com/">Allen Lu</a>
 <br>
-<a href="https://whalebai.tumblr.com/">Peiyan Lyu</a>
+<a href="https://peiyanlyu.tumblr.com/">Peiyan Lyu</a>
 <br>
 <a href="https://climadesignaadi.tumblr.com/">Aadi Patel</a>
 <br>
